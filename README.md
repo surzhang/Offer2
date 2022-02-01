@@ -26,7 +26,20 @@
 + [Offer26 树的子结构](/src/main/java/com/question1) 
 + [Offer27 二叉树的镜像](/src/main/java/com/question1) 
 + [Offer28 对称的二叉树](/src/main/java/com/question1) 
-+ [Offer29 顺时针打印矩阵](/src/main/java/com/question1) 
++ [Offer29 顺时针打印矩阵](/src/main/java/com/question1)   
+#### third   
++ [Offer18 删除链表的节点](/src/main/java/com/question2)  
++ [Offer19 正则表达式匹配](/src/main/java/com/question2) 
++ [Offer24 反转链表](/src/main/java/com/question2)
++ [Offer30 包含main函数的栈](/src/main/java/com/question2) 
++ [Offer31 栈的压入弹出](/src/main/java/com/question2) 
++ [Offer35 复杂链表的复制](/src/main/java/com/question2) 
++ [Offer36 二叉搜索树与循环链表的转换](/src/main/java/com/question2) 
++ [Offer38 字符串的全排列](/src/main/java/com/question2) 
++ [Offer40 最小的k个树](/src/main/java/com/question2) 
++ [Offer41 数据流的中位数](/src/main/java/com/question2) 
++ [Offer42 连续子数组的最大和](/src/main/java/com/question2) 
++ [Offer37 序列化二叉树](/src/main/java/com/question2) 
 
 
 
