@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="253a6d3e-3beb-40ac-94c0-62f38b656d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/question2/O42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O32_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O32_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O55_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O56_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O56_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/question3/O57.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -157,6 +158,7 @@
       <workItem from="1643424562063" duration="3235000" />
       <workItem from="1643532580069" duration="116000" />
       <workItem from="1643699598001" duration="9301000" />
+      <workItem from="1643786374367" duration="10800000" />
     </task>
     <servers />
   </component>
