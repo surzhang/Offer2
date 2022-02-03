@@ -36,7 +36,7 @@
 + [Offer35 复杂链表的复制](/src/main/java/com/question2) 
 + [Offer36 二叉搜索树与循环链表的转换](/src/main/java/com/question2) 
 + [Offer38 字符串的全排列](/src/main/java/com/question2) 
-+ [Offer40 最小的k个树](/src/main/java/com/question2) 
++ [Offer40 最小的k个数](/src/main/java/com/question2) 
 + [Offer41 数据流的中位数](/src/main/java/com/question2) 
 + [Offer42 连续子数组的最大和](/src/main/java/com/question2) 
 + [Offer37 序列化二叉树](/src/main/java/com/question2) 
@@ -55,6 +55,21 @@
 + [Offer56_1 数组中出现一次的数字](/src/main/java/com/question3)  
 + [Offer56_2 数组中出现一次的数字](/src/main/java/com/question3)  
 + [Offer57 和为target的两个数字](/src/main/java/com/question3)  
+#### fifth
++ [Offer45 把数组排成最小的数](/src/main/java/com/question4) 
++ [Offer46 把数字翻译成字符串](/src/main/java/com/question4) 
++ [Offer47 礼物的最大价值](/src/main/java/com/question4) 
++ [Offer48 最长不含重复字符的子字符串](/src/main/java/com/question4) 
++ [Offer49 丑数](/src/main/java/com/question4) 
++ [Offer52 两个链表的第一个公共节点](/src/main/java/com/question4) 
++ [Offer53_1 在排序数组中查找数字i](/src/main/java/com/question4) 
++ [Offer53_2 0~n-1中缺失的数字](/src/main/java/com/question4) 
++ [Offer54 二叉搜索树的第k大节点](/src/main/java/com/question4) 
++ [Offer57_2 和为s的连续正数序列](/src/main/java/com/question4) 
++ [Offer58_1 左旋转字符串](/src/main/java/com/question4) 
++ [Offer58_2 翻转单词顺序](/src/main/java/com/question4) 
+
+
 
 
 
