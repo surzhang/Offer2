@@ -68,6 +68,28 @@
 + [Offer57_2 和为s的连续正数序列](/src/main/java/com/question4) 
 + [Offer58_1 左旋转字符串](/src/main/java/com/question4) 
 + [Offer58_2 翻转单词顺序](/src/main/java/com/question4) 
+#### sixth
++ [Offer55 平衡二叉树2](/src/main/java/com/question5) 
++ [Offer59_1 滑动窗口的最大值](/src/main/java/com/question5)
++ [Offer59_2 队列的最大值](/src/main/java/com/question5)  
++ [Offer60 骰子的点数和](/src/main/java/com/question5) 
++ [Offer61 扑克牌中的顺子](/src/main/java/com/question5) 
++ [Offer62 圆圈中最后剩下的数字](/src/main/java/com/question5) 
++ [Offer63 股票的最大利润](/src/main/java/com/question5) 
++ [Offer64 求1+2+3+...+n的和](/src/main/java/com/question5) 
++ [Offer65 不用加减乘除做加法](/src/main/java/com/question5)
++ [Offer66 构建乘积数组](/src/main/java/com/question5)
++ [Offer67 把字符串转换成整数](/src/main/java/com/question5)
++ [Offer68_1 二叉搜索树的最近公共祖先](/src/main/java/com/question5) 
++ [Offer68_2 二叉树的最近公共祖先](/src/main/java/com/question5) 
+
+
+
+
+
+
+
+
 
 
 
