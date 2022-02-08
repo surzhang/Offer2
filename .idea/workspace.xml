@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="253a6d3e-3beb-40ac-94c0-62f38b656d55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/question/CQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question/CQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/question/O03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question/O03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/question/O04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question/O04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/question/O11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question/O11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/question1/O15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question1/O15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/question3/O39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question3/O39.java" afterDir="false" />
-    </list>
+    <list default="true" id="253a6d3e-3beb-40ac-94c0-62f38b656d55" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,6 +154,7 @@
       <workItem from="1644282658729" duration="4146000" />
       <workItem from="1644286854256" duration="3928000" />
       <workItem from="1644328131897" duration="106000" />
+      <workItem from="1644328355324" duration="12000" />
     </task>
     <servers />
   </component>
