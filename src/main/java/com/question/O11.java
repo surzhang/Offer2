@@ -28,4 +28,19 @@ public class O11 {
         }
         return numbers[low];
     }
+    public int minArray2(int[] numbers) {
+        int n = numbers.length;
+        int low=0,high=n-1;
+        while(low<high){
+            int mid = low+(high-low)/2;
+            if (numbers[mid]<numbers[high]){
+                high=mid;
+            }else if (numbers[mid]>numbers[high]){
+                low=mid+1;
+            }else{
+                high-=1;
+            }
+        }
+        return numbers[low];
+    }
 }

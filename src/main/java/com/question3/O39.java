@@ -26,7 +26,6 @@ public class O39 {
 
     public int majorityElement(int[] nums) {
         Map<Integer, Integer> counts = countNums(nums);
-
         Map.Entry<Integer, Integer> majorityEntry = null;
         for (Map.Entry<Integer, Integer> entry : counts.entrySet()) {
             if (majorityEntry == null || entry.getValue() > majorityEntry.getValue()) {

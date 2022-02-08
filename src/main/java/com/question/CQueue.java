@@ -2,6 +2,7 @@ package com.question;
 
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * @author zyk
@@ -21,6 +22,7 @@ public class CQueue {
         stack1=new LinkedList<Integer>();
         stack2=new LinkedList<Integer>();
     }
+
     //尾部添加
     public void appendTail(int value){
         stack1.push(value);

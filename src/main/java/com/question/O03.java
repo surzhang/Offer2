@@ -41,6 +41,7 @@ public class O03 {
             }
         }
         return repeat;
+
     }
 
     public static void main(String[] args) {
