@@ -14,4 +14,10 @@ public class O64 {
         res += n;
         return res;
     }
+
+    public static void main(String[] args) {
+        O64 o64=new O64();
+        o64.sumNums(3);
+
+    }
 }

@@ -18,7 +18,6 @@ public class O53_2 {
           int mid = (i+j)/2;
           if (nums[mid]==mid)i=mid+1;
           else j=mid - 1;
-
       }
       return i;
     }

@@ -4,7 +4,8 @@ package com.question3;
  * @author zyk
  * @version 1.0
  * @fileName O51
- * @description :TODO 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。输入一个数组，求出这个数组中的逆序对的总数。
+ * @description :TODO 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。
+ * 输入一个数组，求出这个数组中的逆序对的总数。
  * @date 2022/2/2 17:05
  */
 public class O51 {
