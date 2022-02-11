@@ -84,7 +84,7 @@
 + [Offer68_2 二叉树的最近公共祖先](/src/main/java/com/question5) 
 
 ## 分类总结  
-###1.栈和队列
+### 1.栈和队列
 - offer09：用两个栈实现队列
 - offer30:包含main函数的栈
 - offer31：栈的压入、弹出（while循环）
@@ -97,11 +97,11 @@
 - offer32_1:从上到下打印二叉树（BFS（queue+while））
 - offer32_2:层次打印二叉树（BFS）
 - offer32_3:奇偶打印二叉树（BFS）
-- offer34：二叉树中某一路经和为目标值（DFS（栈），BFS（map+queue））
-- offer55：二叉树的深度（DFS，BFS）
-- offer54：二叉搜索树的第k大节点
-- offer68：二叉搜索树的最近公共祖先
-- offer68_2:二叉树的最近公共祖先
+- offer34:二叉树中某一路经和为目标值（DFS（栈），BFS（map+queue））
+- offer55:二叉树的深度（DFS，BFS）
+- offer54:二叉搜索树的第k大节点
+- offer68:二叉搜索树的最近公共祖先
+- offer68_2: 二叉树的最近公共祖先
 
 ### 3.动态规划
 - offer10：斐波那契数列
