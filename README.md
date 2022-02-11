@@ -1,6 +1,6 @@
 # Offer2
 
-### 剑指offer(java题解）  
+## 剑指offer(java题解）涵盖 位运算，链表，堆栈，DFS，BFS，动态规划，字符串相爱难改观题目，下面有题目链接和分类题型，可配合练习。 
 #### first
 + [Offer03 数组中重复的数字](/src/main/java/com/question)  
 + [Offer04 二维数组中查找](/src/main/java/com/question)   
